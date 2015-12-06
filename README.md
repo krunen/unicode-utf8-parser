@@ -15,3 +15,5 @@ use this module to get unicode characters
 The module exports the sub parse-utf8-bytes, which take a supply as input
 and returns a new supply.
 
+If there are Non-UTF8 bytes in the stream, they will be emitted as Int.
+You have to implement handling of these yourself ($val ~~ Int).
