@@ -1,0 +1,9 @@
+{
+    "name" : "Unicode::UTF8-Parser",
+    "version" : "*",
+    "description" : "Supply which converts a supply of UTF8 bytes to unicode characters",
+    "depends" : [ ],
+    "provides" : { "Unicode::UTF8-Parser" : "lib/Unicode/UTF8-Parser.pm"},
+    "repo-type" : "git",
+    "source-url" : "git://github.com/krunen/uncode-utf8-parser.git"
+}
