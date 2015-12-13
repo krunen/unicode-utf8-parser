@@ -5,5 +5,5 @@
     "depends" : [ ],
     "provides" : { "Unicode::UTF8-Parser" : "lib/Unicode/UTF8-Parser.pm"},
     "repo-type" : "git",
-    "source-url" : "git://github.com/krunen/uncode-utf8-parser.git"
+    "source-url" : "git://github.com/krunen/unicode-utf8-parser.git"
 }
